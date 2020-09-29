@@ -15,4 +15,4 @@ This is my sandbox for engineering
 
 :octocat:
 
-![The Mount](images/mount.png)
+![The Mount](images/Mount.png)
